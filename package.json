@@ -1,5 +1,5 @@
 {
-  "name": "dmzj",
+  "name": "dmzj-nodejs",
   "version": "0.0.1",
   "description": "https://github.com/zhihaofans/dmzj-nodejs",
   "main": "app.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "zhihaofans",
-  "license": "ISC",
+  "license": "Apache Licene 2.0",
   "dependencies": {
     "cheerio": "^1.0.0-rc.1",
     "express": "^4.15.3",

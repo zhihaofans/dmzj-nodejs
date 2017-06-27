@@ -20,8 +20,8 @@ A unofficial API for nodejs(unfinished).
 ### Category
 - [`/novel/category`](https://dmzj.herokuapp.com/novel/category)
 
-and more...
+and [more...](app.js)
 
 ## Comic
 
-and more...
+and [more...](app.js)
