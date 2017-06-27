@@ -409,6 +409,6 @@ app.use(function (err, req, res, next) {
     console.error(err.stack);
     res.status(500).send('Server error:Something broke!');
 });
-app.listen(3000, function () {
+app.listen(process.env.PORT || 3000, function () {
     console.log('app is listening at port 3000');
 });
