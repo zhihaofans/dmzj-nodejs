@@ -2,6 +2,8 @@ dmzj-nodejs
 ===
 A unofficial API for nodejs(unfinished).
 
+`Access-Control-Allow-Origin:*`
+
 [DEMO](https://dmzj.herokuapp.com/)
 
 ## HomePage
