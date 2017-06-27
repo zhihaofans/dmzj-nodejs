@@ -2,6 +2,10 @@ dmzj-nodejs
 
 [DEMO](https://dmzj.herokuapp.com/)
 
+## HomePage
+- [`/`](https://dmzj.herokuapp.com/) (HTTP 301 to https://www.dmzj.com/)
+
+
 ## Novel
 ### Recommend
 - [`/novel/recommend`](https://dmzj.herokuapp.com/novel/recommend)
