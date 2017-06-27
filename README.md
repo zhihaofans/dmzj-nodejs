@@ -1,5 +1,7 @@
 dmzj-nodejs
 ===
+A unofficial API for nodejs(unfinished).
+
 [DEMO](https://dmzj.herokuapp.com/)
 
 ## HomePage
