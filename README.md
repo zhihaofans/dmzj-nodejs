@@ -3,7 +3,7 @@ dmzj-nodejs
 [DEMO](https://dmzj.herokuapp.com/)
 
 ## HomePage
-- [`/`](https://dmzj.herokuapp.com/) (HTTP 301 to https://www.dmzj.com/)
+- [`/`](https://dmzj.herokuapp.com/) (HTTP 301 redirect to https://www.dmzj.com/)
 
 
 ## Novel
