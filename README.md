@@ -7,7 +7,7 @@ A unofficial API for nodejs(unfinished).
 [DEMO](https://dmzj.herokuapp.com/)
 
 ## HomePage
-- [`/`](https://dmzj.herokuapp.com/) (HTTP 301 redirect to https://www.dmzj.com/)
+- [`/`](https://dmzj.herokuapp.com/) (HTTP 200 redirect to https://www.dmzj.com/)
 
 
 ## Novel
