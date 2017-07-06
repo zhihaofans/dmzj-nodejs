@@ -6,7 +6,7 @@ var app = express();
 var api_server = 'http://v2.api.dmzj.com/';
 //首页
 app.get('/', function (req, res, next) {
-    res.redirect("https://www.dmzj.com/");
+    res.redirect(200,"https://www.dmzj.com/");
 });
 //轻小说
 //推荐列表
