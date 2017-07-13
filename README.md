@@ -6,6 +6,10 @@ A unofficial API for nodejs(unfinished).
 
 [DEMO](https://dmzj.herokuapp.com/)
 
+## Node.js Version
+
+- `v6.11.1 LTS`
+
 ## HomePage
 - [`/`](https://dmzj.herokuapp.com/) (HTTP 200 redirect to https://www.dmzj.com/)
 
